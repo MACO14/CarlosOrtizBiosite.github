@@ -1,0 +1,66 @@
+
+
+
+#sideNav {
+    font-family:'Oswald', Arial, sans-serif;
+    color:#DE723E;
+    align-items:center;
+    padding-left: 0.5rem;
+}
+
+body{
+    margin:0;
+    font-family: 'Oswald', Arial, sans-serif;
+    padding-left:1rem;
+    padding-right:1rem;
+    text-decoration: none;
+
+}
+
+h1{ 
+    margin:0;
+    padding-left:1rem;
+    text-align:center;
+    font-size:45px;
+    padding-bottom:5%;
+}
+
+p{ 
+    padding-left: 1rem;
+    padding-right:1rem;
+    font-family: 'Oswald', Arial, sans-serif;
+    font-size: 19px;
+}
+
+.hero {
+    background-color: #DE723E;
+    background-image: url(carlosbackground.jpeg);
+    color: white;
+
+    padding-top:200px;
+    padding-bottom:200px;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+#container {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+h2 { 
+    font-family:'Oswald', Arial, sans-serif;
+    color: white;
+    padding: 15px;
+    text-align:center;
+    font-size:45px;
+}
+
+.photogallery{
+    padding-left:1rem;
+    text-align:center;
+}
